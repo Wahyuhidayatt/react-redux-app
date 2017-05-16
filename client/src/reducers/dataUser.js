@@ -16,6 +16,12 @@ const initialState = [
     lahir: '06-06-2006',
     status: 'Pelajar',
     image: 'https://previews.123rf.com/images/igorrita/igorrita1507/igorrita150700040/42584424-flat-hipster-character-stylish-young-guy-with-glasses-avatar-icon-man-vector-illustration-eps10-Stock-Vector.jpg'
+  },
+  { name: 'Ahmad Syahril',
+    alamat: 'Depok',
+    lahir: '06-06-2006',
+    status: 'Pelajar',
+    image: 'https://previews.123rf.com/images/igorrita/igorrita1507/igorrita150700040/42584424-flat-hipster-character-stylish-young-guy-with-glasses-avatar-icon-man-vector-illustration-eps10-Stock-Vector.jpg'
   }
 ]
 
